@@ -1,8 +1,8 @@
-1）下载如下比赛数据：
+1）Download the competition data in the following：
 https://www.kaggle.com/competitions/jane-street-real-time-market-data-forecasting/data
 
-2）运行nn_train.ipynb,ridge_train.ipynb,xgb_train.ipynb,tabm_train.ipynb文件获得模型权重
+2）Run nn_train.ipynb,ridge_train.ipynb,xgb_train.ipynb,tabm_train.ipynb files for getting model weight
 
-3）运行ensemble.ipynb文件
+3）Run ensemble.ipynb file
 
-注意至少需要一个GPU，64G内存以上配置
+Note: This project requires at least one GPU and a minimum of 64 GB of RAM.
